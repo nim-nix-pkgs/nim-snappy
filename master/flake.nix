@@ -11,7 +11,6 @@
   inputs.src-snappy-master.ref   = "refs/heads/master";
   inputs.src-snappy-master.owner = "status-im";
   inputs.src-snappy-master.repo  = "nim-snappy";
-  inputs.src-snappy-master.dir   = "";
   inputs.src-snappy-master.type  = "github";
   
   inputs."faststreams".owner = "nim-nix-pkgs";
